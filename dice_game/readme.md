@@ -56,7 +56,7 @@ This makes verification:
 
 ---
 
-## 🚀 Learning Outcomes
+## Learning Outcomes
 
 - Designing rule-based hardware systems  
 - Implementing multi-state control logic  
